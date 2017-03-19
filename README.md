@@ -21,3 +21,11 @@ To reduce size of images run
 ```shell
 glup imagemin
 ```
+
+## Features
+
+* Livereload
+* Sass
+* Autoprefixer
+* Imagemin
+* Sourcemaps
