@@ -1,1 +1,1 @@
-# wp-blank-theme-boilerplate
+# Blank theme for WP development
